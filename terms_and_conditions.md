@@ -1,4 +1,4 @@
-# ABC Glossary of terms and expressions
+# ABC Bank Glossary of terms and expressions
 
 1) Term: "1881 Act" . Definition: The Conveyancing and Law of Property Act 1881.
 2) Term: "1911 Act” . Definition: The Conveyancing Act 1911.
