@@ -1,0 +1,25 @@
+task_description: 'Teach the model banking terms and conditions'
+created_by: carlomarcoli
+domain: banking
+document:
+ repo: https://github.com/cmar28/knowledge_test.git
+ commit: c463b53
+ patterns:
+   - terms_and_conditions.md
+seed_examples:
+ - question: What is the Standard Variable Rate (SVR)?
+   answer: |
+    The SVR is ABC's variable interest rate that can change due to law, regulatory requirements, industry standards, or funding costs.
+ - question:  How does ABC manage changes to the interest rate linked to the Bank of England base rate?
+   answer: |
+     ABC adjusts the rate according to changes in the Bank of England base rate, effective the next day, with a floor of 0%.
+ - question:  What constitutes an early repayment charge in ABC's mortgage terms?
+   answer: |
+     An early repayment charge is a fee for overpayments exceeding the annual allowance, full repayment, or switching products within a specified period.
+ - question: What does the term 'completion' mean in the context of ABC mortgage conditions?
+   answer: |
+     'Completion' is when the loan amount is first released, marking the start of interest accrual.
+ - question: What is the definition of a first legal charge in ABC’s mortgage terms?
+   answer: |
+     A first legal charge is ABC's primary claim over the property, ensuring security over its value.
+     
